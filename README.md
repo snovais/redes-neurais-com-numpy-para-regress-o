@@ -1,1 +1,1 @@
-# redes-neurais-com-numpy-para-regress-o
+Redes Neurais Artificiais para Regressão desenvolvida com Numpy.
